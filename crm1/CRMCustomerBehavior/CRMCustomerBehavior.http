@@ -1,0 +1,6 @@
+@CRMCustomerBehavior_HostAddress = http://localhost:5130
+
+GET {{CRMCustomerBehavior_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

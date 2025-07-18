@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0DSgUBMPQUXBqAbtEHOiDJ82uEqpFJnvFEhEL1Htokk=",
+  "Source": "CRMCustomerBehavior",
+  "BasePath": "_content/CRMCustomerBehavior",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
